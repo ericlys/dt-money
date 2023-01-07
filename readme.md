@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src=".github/img1.svg" alt=""/>
-</h1>
+
+<span align="center">
+  <img src=".github/img1.png" alt="" />
+</span>
 
 <span align="center">
   <img src=".github/img2.png" alt="" />
